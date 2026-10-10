@@ -173,7 +173,7 @@ Pricing and the current limits: [datasink.ing/pricing](https://datasink.ing/pric
 - **API examples, 7 in curl + Python + LLM** —
   [`api-examples.md`](https://github.com/heubme2020/datasinking/blob/main/api-examples.md)
 - **Support** — support@datasink.ing
-- **Affiliate** — earn $7 every year per referral (recurring, PayPal, $31 minimum withdrawal): [datasink.ing/affiliate](https://datasink.ing/affiliate)
+- **Affiliate** — earn $7 every purchase per referral (recurring, PayPal, $31 minimum withdrawal): [datasink.ing/affiliate](https://datasink.ing/affiliate)
 
 ## License
 
